@@ -42,7 +42,7 @@
 ・11月21日は、1986年三原山大噴火と全島民避難の日、真の政治主導の危機管理に学ぶ | Challenge Next Stage　〜目指せ！出版への道〜
 [http://co-smart.net/?p=5848](url)
 
-・人口集中地区（DID） 平成27年｜国土地理院　[https://www.gsi.go.jp/chizujoho/h27did.html](url)
+・人口集中地区（DID） 平成27年｜国土地理院　(https://www.gsi.go.jp/chizujoho/h27did.html)
 
 ・東京島じまん食材使用店　/ 東京都産業労働局 著 / 東京都　産業労働局　農林水産部　食料安全課 発行　/ p8～35
 
