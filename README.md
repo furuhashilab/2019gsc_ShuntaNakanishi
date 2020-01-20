@@ -107,12 +107,12 @@ https://www.facebook.com/mapconcierge/posts/2979103442118607
 ### 2020年1月20日　中西 駿太　CC-BY4.0
 
 ##  【2019年度ゼミ論】提出用アブストラクトテンプレート
-https://docs.google.com/document/d/1nYEfIbsow8ICGCpd4HIupMZR9cOiKXeT2lJIo3gMMFE/edit?usp=drivesdk
+[https://docs.google.com/document/d/1nYEfIbsow8ICGCpd4HIupMZR9cOiKXeT2lJIo3gMMFE/edit?usp=drivesdk](url)
 
 ## 【2019年度ゼミ論】最終発表プレゼンテーションスライド（発表資料）
-https://drive.google.com/open?id=10_nguC1Y37i4XYlyGRZYC2Ymu1GN2FOzES6XgdL6eXc
+[https://drive.google.com/open?id=10_nguC1Y37i4XYlyGRZYC2Ymu1GN2FOzES6XgdL6eXc](url)
 
 ## 伊豆大島ドローン空撮映像　Short Var.
-https://drive.google.com/open?id=1ulf94V2i-NCVKKYpK-4FfEzAZuMMvSZr
+[https://drive.google.com/open?id=1ulf94V2i-NCVKKYpK-4FfEzAZuMMvSZr](url)
 ### 進捗状況
-https://github.com/furuhashilab/sotsuron2019/projects/8?fullscreen=true
+[https://github.com/furuhashilab/sotsuron2019/projects/8?fullscreen=true](url)
