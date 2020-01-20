@@ -48,13 +48,13 @@
 
 ・朝日新聞　聞蔵Ⅱビジュアル
 ### Strava
-・ [https://www.strava.com/activities/2931113666](url)
+・[https://www.strava.com/activities/2931113666](url)
 
-・ [https://www.strava.com/activities/2931257504](url)
+・[https://www.strava.com/activities/2931257504](url)
 
-・ [https://www.strava.com/activities/2931198709](url)
+・[https://www.strava.com/activities/2931198709](url)
 
-・ [https://www.strava.com/activities/2931257504](url)
+・[https://www.strava.com/activities/2931257504](url)
 
 ### 伊豆大島基礎情報
 
@@ -65,9 +65,9 @@
 [http://www.izu-oshima.or.jp/](url)
 
 ■紹介動画
-・ [https://youtu.be/Gvx8_D5nj68](url)
+・[https://youtu.be/Gvx8_D5nj68](url)
 
-・ [https://youtu.be/6lce8hwRyZs](url)
+・[https://youtu.be/6lce8hwRyZs](url)
 
 
 ### 先行事例
