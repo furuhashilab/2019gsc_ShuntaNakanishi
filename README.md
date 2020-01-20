@@ -29,7 +29,7 @@
  現時点ではDJIの機体は標高表示が出ていなく判別ができない。山を超えると一気に風が強まったり風向が変わったりしてドローンが墜落する危険がある。今後はGoogle Earth や高度計測アプリを使い、風計測アプリ「WINDY」を使いつつドローンを飛ばす必要があると感じた。
  2013年10月の台風26号「ウィパー」による大雨で発生した大規模土砂災害では、土砂と共に流された流木によって家屋を破壊し、甚大な被害をもたらした。放置林は土砂災害の被害の拡大の要因となり再び甚大な被害が発生する恐れがある。今回の研究では2019年の台風15号「ファクサイ」で破壊された杉林上空を撮影し、規模を実際に確認した。日本の森の45%は人工的に作られたものである。したがって、この放置林問題は大島だけの問題ではなく近い将来全国的な問題、国の問題となる可能性がある。
 
-### 参考文献・資料（Reference）
+## 参考文献・資料（Reference）
 
 ### ゼミ論最終発表
 ・なぜ山に木が多すぎると土砂崩れが起きるのか - 痩せるコーラ　[https://www.yaserucola.com/entry/dosyasaigai](url)　
@@ -48,13 +48,13 @@
 
 ・朝日新聞　聞蔵Ⅱビジュアル
 ### Strava
-・[https://www.strava.com/activities/2931113666](url)
+・ [https://www.strava.com/activities/2931113666](url)
 
-・[https://www.strava.com/activities/2931257504](url)
+・ [https://www.strava.com/activities/2931257504](url)
 
-・[https://www.strava.com/activities/2931198709](url)
+・ [https://www.strava.com/activities/2931198709](url)
 
-・[https://www.strava.com/activities/2931257504](url)
+・ [https://www.strava.com/activities/2931257504](url)
 
 ### 伊豆大島基礎情報
 
@@ -65,9 +65,9 @@
 [http://www.izu-oshima.or.jp/](url)
 
 ■紹介動画
-・[https://youtu.be/Gvx8_D5nj68](url)
+・ [https://youtu.be/Gvx8_D5nj68](url)
 
-・[https://youtu.be/6lce8hwRyZs](url)
+・ [https://youtu.be/6lce8hwRyZs](url)
 
 
 ### 先行事例
