@@ -113,3 +113,5 @@
 <https://drive.google.com/open?id=1ulf94V2i-NCVKKYpK-4FfEzAZuMMvSZr><url>
 ### 進捗状況
 <https://github.com/furuhashilab/sotsuron2019/projects/8?fullscreen=true><url>
+ 
+ © Furuhashi Laboratory/Shunta Nakanishi, CC BY 4.0
