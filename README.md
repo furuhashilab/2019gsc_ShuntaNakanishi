@@ -1,11 +1,11 @@
-# 2019gsc_ShuntaNakanishi
-中西駿太　2019年度論用レポジトリ
+# 【2019年度ゼミ論】伊豆大島の観光目線での伊豆大島の現状レポート
+
 ## 学籍番号：1A117117 氏名：中西 駿太　
 ## 地球社会共生学部　地球社会共生学科　3年A組110番
 
 ## 指導教員：古橋 大地 教授
 
-# 【2019年度ゼミ論】伊豆大島の観光目線での伊豆大島の現状レポート
+# 【2019年度ゼミ論】タイトル：伊豆大島の観光目線での伊豆大島の現状レポート
 
 ## 概要
 本研究は伊豆諸島最大の島「伊豆大島」をフィールドに、過去の度重なる自然災害、現地の独特な気候や文化を観光目線で把握し、伊豆大島の”今”（現状）を確認し報告をするものである。それと同時に、かつて本研究室が伊豆大島合宿を行いドローンによる空撮をしたり、地域資源発掘型実証プログラムとして「ドローンフェスIN伊豆大島」（古橋教授講演）が開催されたりしたことも踏まえ、ドローンを活用し4年次も引き続き伊豆大島をフィールドに研究を進めていくべく現地でドローンを実際に飛ばし、飛ばす上での注意点等を調べる。したがって、本研究は4年次へつながる研究となっている。
@@ -32,15 +32,15 @@
 ## 参考文献・資料（Reference）
 
 ### ゼミ論最終発表
-・なぜ山に木が多すぎると土砂崩れが起きるのか - 痩せるコーラ　[https://www.yaserucola.com/entry/dosyasaigai](url)　
+・なぜ山に木が多すぎると土砂崩れが起きるのか - 痩せるコーラ　<https://www.yaserucola.com/entry/dosyasaigai><url>　
 
-・気象の話　大島の風　[http://www13.plala.or.jp/oosimakisyou/1kaze.htm](url)　
+・気象の話　大島の風　<http://www13.plala.or.jp/oosimakisyou/1kaze.htm><url>　
 
 ・2013.10.16土砂災害 - 伊豆大島ジオパーク・データミュージアム
-[http://oshima.georepublic.jp/2013.10.16%E5%9C%9F%E7%A0%82%E7%81%BD%E5%AE%B3](url)
+<http://oshima.georepublic.jp/2013.10.16%E5%9C%9F%E7%A0%82%E7%81%BD%E5%AE%B3><url>
 
 ・11月21日は、1986年三原山大噴火と全島民避難の日、真の政治主導の危機管理に学ぶ | Challenge Next Stage　〜目指せ！出版への道〜
-[http://co-smart.net/?p=5848](url)
+<http://co-smart.net/?p=5848><url>
 
 ・人口集中地区（DID） 平成27年｜国土地理院　<https://www.gsi.go.jp/chizujoho/h27did.html><url>
 
@@ -48,53 +48,53 @@
 
 ・朝日新聞　聞蔵Ⅱビジュアル
 ### Strava
-・[https://www.strava.com/activities/2931113666](url)
+・<https://www.strava.com/activities/2931113666><url>
 
-・[https://www.strava.com/activities/2931257504](url)
+・<https://www.strava.com/activities/2931257504><url>
 
-・[https://www.strava.com/activities/2931198709](url)
+・<https://www.strava.com/activities/2931198709><url>
 
-・[https://www.strava.com/activities/2931257504](url)
+・<https://www.strava.com/activities/2931257504><url>
 
 ### 伊豆大島基礎情報
 
 ■伊豆大島wikipedia
-[https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6](url)
+<https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6><url>
 
 ■伊豆大島観光協会HP
-[http://www.izu-oshima.or.jp/](url)
+<http://www.izu-oshima.or.jp/><url>
 
 ■紹介動画
-・[https://youtu.be/Gvx8_D5nj68](url)
+・<https://youtu.be/Gvx8_D5nj68><url>
 
-・[https://youtu.be/6lce8hwRyZs](url)
+・<https://youtu.be/6lce8hwRyZs><url>
 
 
 ### 先行事例
 ■ドローンフェス ― 伊豆大島観光協会
-http://www.izu-oshima.or.jp/pdf/drone%20event.pdf
+<http://www.izu-oshima.or.jp/pdf/drone%20event.pdf><url>
 
 ■古橋研究室 伊豆大島合宿　Medium　Ayame Otsuki
-https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6-88ed09b33fa7
+<https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6-88ed09b33fa7><url>
 
 ■古橋研究室　ドローン撮影動画
-・https://encrypted-vtbn3.gstatic.com/video?q=tbn:ANd9GcSGeHiOb-zGq9TABImlW9N4MIhE5n_bojAka5xJ60Sttxx1njmh
+・<https://encrypted-vtbn3.gstatic.com/video?q=tbn:ANd9GcSGeHiOb-zGq9TABImlW9N4MIhE5n_bojAka5xJ60Sttxx1njmh><url>
 
-・https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRnWRPNZ5LUgVSAD3ch5BTd27lZvqRES52Ps6gE8L48j_EWGxNI
+・<https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRnWRPNZ5LUgVSAD3ch5BTd27lZvqRES52Ps6gE8L48j_EWGxNI><url>
 
 
 ### ドローンツーリズム進捗状況
 ■参考事例： 
 
-http://www.dron-e-motion.co.jp/316%e9%87%91%e3%80%9c17%e5%9c%9f%e9%96%8b%e5%82%ac-%e3%80%8c%e7%89%b9%e6%80%a5%e3%83%ac%e3%83%83%e3%83%89%e3%82%a2%e3%83%ad%e3%83%bc%e5%8f%b7%e3%81%a7%e8%a1%8c%e3%81%8f-%e7%a7%a9%e7%88%b6/
+<http://www.dron-e-motion.co.jp/316%e9%87%91%e3%80%9c17%e5%9c%9f%e9%96%8b%e5%82%ac-%e3%80%8c%e7%89%b9%e6%80%a5%e3%83%ac%e3%83%83%e3%83%89%e3%82%a2%e3%83%ad%e3%83%bc%e5%8f%b7%e3%81%a7%e8%a1%8c%e3%81%8f-%e7%a7%a9%e7%88%b6/><url>
 
 ■伊豆半島ドローンツーリズム事例
 
-https://www.drone.jp/column/20190225120526.html
+<https://www.drone.jp/column/20190225120526.html><url>
 
 ### 伊豆大島ドローン飛行調査
 
-https://www.facebook.com/mapconcierge/posts/2979103442118607
+<https://www.facebook.com/mapconcierge/posts/2979103442118607><url>
 
 ## 謝辞(Acknowledgements)
  本研究を進めるにあたり一般社団法人 大島観光協会の岡田雅司氏、古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
